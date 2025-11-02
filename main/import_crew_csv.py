@@ -54,33 +54,3 @@ if __name__ == "__main__":
 
 
 
-'''
-import os
-import sys
-import csv
-import django
-
-# Add your project root to Python path
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "miraclehotels.settings")
-django.setup()
-
-from main.models import Crew
-
-def import_crew_from_csv(file_path):
-    with open(file_path, newline='', encoding='utf-8') as csvfile:
-        reader = csv.DictReader(csvfile)
-        for row in reader:
-            Crew.objects.create(
-                name=row['name'],
-                role=row['role'],
-                email=row['email'],
-                phone=row['phone']
-            )
-    print("✅ CSV import completed.")
-
-if __name__ == "__main__":
-    import_crew_from_csv("main/crew_data.csv")  # Replace with your actual path if needed
-
-'''
