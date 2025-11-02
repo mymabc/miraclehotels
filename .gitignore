@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Django
+db.sqlite3
+*.log
+*.pot
+*.pyc
+*.env
+.env
+*.secret
+*.json
+
+# Virtualenv
+venv/
+ENV/
+env/
+.miraclehotels/
+.miraclehotels_env/
+
+# Static and media
+/staticfiles/
+/media/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
