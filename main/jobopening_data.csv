@@ -1,0 +1,31 @@
+title,description,is_active
+Front Desk Officer,Handles guest check-in and check-out,True
+Housekeeping Attendant,Cleans guest rooms and public areas,True
+Chef de Partie,Prepares meals and supervises kitchen staff,True
+Security Guard,Ensures safety of guests and property,True
+Concierge Assistant,Provides guest services and local guidance,True
+Pool Waiter,Serves food and drinks at poolside,True
+Room Service Staff,Delivers meals to guest rooms,True
+Pastry Chef,Creates desserts and baked goods,True
+Laundry Operator,Manages hotel laundry operations,True
+Bellhop,Assists guests with luggage and transport,True
+Barista,Prepares coffee and beverages,True
+Sous Chef,Supports head chef in kitchen operations,True
+Reception Supervisor,Oversees front desk operations,True
+Night Auditor,Manages overnight front desk and reports,True
+Spa Therapist,Provides massage and spa treatments,True
+Maintenance Technician,Repairs and maintains hotel facilities,True
+Event Coordinator,Plans and manages hotel events,True
+Sales Executive,Promotes hotel services and packages,True
+IT Support Technician,Maintains hotel IT systems,True
+Marketing Assistant,Supports marketing campaigns and content,True
+HR Officer,Manages recruitment and employee records,True
+Training Manager,Oversees staff training programs,True
+Executive Housekeeper,Leads housekeeping team and standards,True
+Banquet Server,Serves food at banquets and events,True
+Bartender,Mixes and serves drinks at bar,True
+Kitchen Helper,Assists chefs with prep and cleaning,True
+Public Area Cleaner,Cleans lobbies and common areas,True
+Guest Relations Officer,Handles VIP guest services,True
+Valet Driver,Parks and retrieves guest vehicles,True
+Reservation Agent,Manages booking inquiries and systems,True
