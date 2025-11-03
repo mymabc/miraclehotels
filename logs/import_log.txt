@@ -222,3 +222,195 @@
 2025-11-02 10:39:51,690 - INFO - ✅ Imported 30 Crew records.
 2025-11-02 10:39:51,690 - INFO - ✅ Imported 30 Customer records.
 2025-11-02 10:39:51,690 - INFO - ✅ Imported 30 JobOpening records.
+2025-11-03 01:40:13,179 - INFO - 🔄 Reset: All Crew records deleted.
+2025-11-03 01:40:13,196 - INFO - Crew row 1 imported: Alice Wong, Manager
+2025-11-03 01:40:13,202 - INFO - Crew row 2 imported: Brian Chan, Receptionist
+2025-11-03 01:40:13,205 - INFO - Crew row 3 imported: Carmen Lee, Housekeeper
+2025-11-03 01:40:13,210 - INFO - Crew row 4 imported: Daniel Ho, Chef
+2025-11-03 01:40:13,212 - INFO - Crew row 5 imported: Eva Lau, Concierge
+2025-11-03 01:40:13,215 - INFO - Crew row 6 imported: Felix Ng, Security
+2025-11-03 01:40:13,218 - INFO - Crew row 7 imported: Grace Lam, Manager
+2025-11-03 01:40:13,222 - INFO - Crew row 8 imported: Henry Yip, Receptionist
+2025-11-03 01:40:13,227 - INFO - Crew row 9 imported: Irene Cheng, Housekeeper
+2025-11-03 01:40:13,231 - INFO - Crew row 10 imported: Jackie Leung, Chef
+2025-11-03 01:40:13,234 - INFO - Crew row 11 imported: Karen Fong, Concierge
+2025-11-03 01:40:13,236 - INFO - Crew row 12 imported: Leo Tam, Security
+2025-11-03 01:40:13,239 - INFO - Crew row 13 imported: Mandy Chiu, Manager
+2025-11-03 01:40:13,241 - INFO - Crew row 14 imported: Nathan Kwok, Receptionist
+2025-11-03 01:40:13,243 - INFO - Crew row 15 imported: Olivia Tse, Housekeeper
+2025-11-03 01:40:13,246 - INFO - Crew row 16 imported: Peter Mak, Chef
+2025-11-03 01:40:13,249 - INFO - Crew row 17 imported: Queenie Yuen, Concierge
+2025-11-03 01:40:13,252 - INFO - Crew row 18 imported: Raymond So, Security
+2025-11-03 01:40:13,254 - INFO - Crew row 19 imported: Samantha Ip, Manager
+2025-11-03 01:40:13,257 - INFO - Crew row 20 imported: Tony Chan, Receptionist
+2025-11-03 01:40:13,260 - INFO - Crew row 21 imported: Una Ko, Housekeeper
+2025-11-03 01:40:13,262 - INFO - Crew row 22 imported: Victor Pang, Chef
+2025-11-03 01:40:13,265 - INFO - Crew row 23 imported: Wendy Hui, Concierge
+2025-11-03 01:40:13,267 - INFO - Crew row 24 imported: Xavier Tong, Security
+2025-11-03 01:40:13,270 - INFO - Crew row 25 imported: Yvonne Luk, Manager
+2025-11-03 01:40:13,272 - INFO - Crew row 26 imported: Zachary Cheung, Receptionist
+2025-11-03 01:40:13,275 - INFO - Crew row 27 imported: Amy Kwan, Housekeeper
+2025-11-03 01:40:13,277 - INFO - Crew row 28 imported: Ben Lo, Chef
+2025-11-03 01:40:13,280 - INFO - Crew row 29 imported: Chloe Yeung, Concierge
+2025-11-03 01:40:13,283 - INFO - Crew row 30 imported: Derek Lai, Security
+2025-11-03 01:40:13,286 - INFO - 🔄 Reset: All Customer records deleted.
+2025-11-03 01:40:13,293 - INFO - Customer row 1 imported: Aaron Lee
+2025-11-03 01:40:13,299 - INFO - Customer row 2 imported: Bella Chan
+2025-11-03 01:40:13,302 - INFO - Customer row 3 imported: Calvin Ng
+2025-11-03 01:40:13,306 - INFO - Customer row 4 imported: Diana Ho
+2025-11-03 01:40:13,311 - INFO - Customer row 5 imported: Ethan Fong
+2025-11-03 01:40:13,315 - INFO - Customer row 6 imported: Fiona Yip
+2025-11-03 01:40:13,318 - INFO - Customer row 7 imported: Gavin Leung
+2025-11-03 01:40:13,320 - INFO - Customer row 8 imported: Hannah Cheng
+2025-11-03 01:40:13,323 - INFO - Customer row 9 imported: Ian Tam
+2025-11-03 01:40:13,325 - INFO - Customer row 10 imported: Jasmine Tse
+2025-11-03 01:40:13,328 - INFO - Customer row 11 imported: Ken Pang
+2025-11-03 01:40:13,330 - INFO - Customer row 12 imported: Lily Hui
+2025-11-03 01:40:13,332 - INFO - Customer row 13 imported: Marcus Tong
+2025-11-03 01:40:13,335 - INFO - Customer row 14 imported: Natalie Luk
+2025-11-03 01:40:13,337 - INFO - Customer row 15 imported: Oscar Cheung
+2025-11-03 01:40:13,340 - INFO - Customer row 16 imported: Phoebe Kwan
+2025-11-03 01:40:13,342 - INFO - Customer row 17 imported: Quentin Lo
+2025-11-03 01:40:13,345 - INFO - Customer row 18 imported: Rachel Yeung
+2025-11-03 01:40:13,347 - INFO - Customer row 19 imported: Samuel Lai
+2025-11-03 01:40:13,349 - INFO - Customer row 20 imported: Tiffany Wong
+2025-11-03 01:40:13,351 - INFO - Customer row 21 imported: Ursula Chan
+2025-11-03 01:40:13,354 - INFO - Customer row 22 imported: Victor Ng
+2025-11-03 01:40:13,356 - INFO - Customer row 23 imported: Wendy Ho
+2025-11-03 01:40:13,358 - INFO - Customer row 24 imported: Xander Fong
+2025-11-03 01:40:13,361 - INFO - Customer row 25 imported: Yvonne Yip
+2025-11-03 01:40:13,364 - INFO - Customer row 26 imported: Zachary Leung
+2025-11-03 01:40:13,366 - INFO - Customer row 27 imported: Amy Cheng
+2025-11-03 01:40:13,368 - INFO - Customer row 28 imported: Ben Tam
+2025-11-03 01:40:13,371 - INFO - Customer row 29 imported: Chloe Tse
+2025-11-03 01:40:13,373 - INFO - Customer row 30 imported: Derek Pang
+2025-11-03 01:40:13,376 - INFO - 🔄 Reset: All JobOpening records deleted.
+2025-11-03 01:40:13,380 - INFO - JobOpening row 1 imported: Front Desk Officer
+2025-11-03 01:40:13,384 - INFO - JobOpening row 2 imported: Housekeeping Attendant
+2025-11-03 01:40:13,387 - INFO - JobOpening row 3 imported: Chef de Partie
+2025-11-03 01:40:13,389 - INFO - JobOpening row 4 imported: Security Guard
+2025-11-03 01:40:13,391 - INFO - JobOpening row 5 imported: Concierge Assistant
+2025-11-03 01:40:13,393 - INFO - JobOpening row 6 imported: Pool Waiter
+2025-11-03 01:40:13,395 - INFO - JobOpening row 7 imported: Room Service Staff
+2025-11-03 01:40:13,398 - INFO - JobOpening row 8 imported: Pastry Chef
+2025-11-03 01:40:13,400 - INFO - JobOpening row 9 imported: Laundry Operator
+2025-11-03 01:40:13,403 - INFO - JobOpening row 10 imported: Bellhop
+2025-11-03 01:40:13,405 - INFO - JobOpening row 11 imported: Barista
+2025-11-03 01:40:13,406 - INFO - JobOpening row 12 imported: Sous Chef
+2025-11-03 01:40:13,408 - INFO - JobOpening row 13 imported: Reception Supervisor
+2025-11-03 01:40:13,409 - INFO - JobOpening row 14 imported: Night Auditor
+2025-11-03 01:40:13,411 - INFO - JobOpening row 15 imported: Spa Therapist
+2025-11-03 01:40:13,412 - INFO - JobOpening row 16 imported: Maintenance Technician
+2025-11-03 01:40:13,414 - INFO - JobOpening row 17 imported: Event Coordinator
+2025-11-03 01:40:13,415 - INFO - JobOpening row 18 imported: Sales Executive
+2025-11-03 01:40:13,416 - INFO - JobOpening row 19 imported: IT Support Technician
+2025-11-03 01:40:13,418 - INFO - JobOpening row 20 imported: Marketing Assistant
+2025-11-03 01:40:13,420 - INFO - JobOpening row 21 imported: HR Officer
+2025-11-03 01:40:13,421 - INFO - JobOpening row 22 imported: Training Manager
+2025-11-03 01:40:13,423 - INFO - JobOpening row 23 imported: Executive Housekeeper
+2025-11-03 01:40:13,425 - INFO - JobOpening row 24 imported: Banquet Server
+2025-11-03 01:40:13,426 - INFO - JobOpening row 25 imported: Bartender
+2025-11-03 01:40:13,428 - INFO - JobOpening row 26 imported: Kitchen Helper
+2025-11-03 01:40:13,429 - INFO - JobOpening row 27 imported: Public Area Cleaner
+2025-11-03 01:40:13,430 - INFO - JobOpening row 28 imported: Guest Relations Officer
+2025-11-03 01:40:13,432 - INFO - JobOpening row 29 imported: Valet Driver
+2025-11-03 01:40:13,433 - INFO - JobOpening row 30 imported: Reservation Agent
+2025-11-03 01:40:13,434 - INFO - ✅ Imported 30 Crew records.
+2025-11-03 01:40:13,434 - INFO - ✅ Imported 30 Customer records.
+2025-11-03 01:40:13,434 - INFO - ✅ Imported 30 JobOpening records.
+2025-11-03 01:45:09,878 - INFO - 🔄 Reset: All Crew records deleted.
+2025-11-03 01:45:09,885 - INFO - Crew row 1 imported: Alice Wong, Manager
+2025-11-03 01:45:09,889 - INFO - Crew row 2 imported: Brian Chan, Receptionist
+2025-11-03 01:45:09,893 - INFO - Crew row 3 imported: Carmen Lee, Housekeeper
+2025-11-03 01:45:09,897 - INFO - Crew row 4 imported: Daniel Ho, Chef
+2025-11-03 01:45:09,902 - INFO - Crew row 5 imported: Eva Lau, Concierge
+2025-11-03 01:45:09,905 - INFO - Crew row 6 imported: Felix Ng, Security
+2025-11-03 01:45:09,908 - INFO - Crew row 7 imported: Grace Lam, Manager
+2025-11-03 01:45:09,910 - INFO - Crew row 8 imported: Henry Yip, Receptionist
+2025-11-03 01:45:09,913 - INFO - Crew row 9 imported: Irene Cheng, Housekeeper
+2025-11-03 01:45:09,916 - INFO - Crew row 10 imported: Jackie Leung, Chef
+2025-11-03 01:45:09,918 - INFO - Crew row 11 imported: Karen Fong, Concierge
+2025-11-03 01:45:09,920 - INFO - Crew row 12 imported: Leo Tam, Security
+2025-11-03 01:45:09,923 - INFO - Crew row 13 imported: Mandy Chiu, Manager
+2025-11-03 01:45:09,925 - INFO - Crew row 14 imported: Nathan Kwok, Receptionist
+2025-11-03 01:45:09,927 - INFO - Crew row 15 imported: Olivia Tse, Housekeeper
+2025-11-03 01:45:09,930 - INFO - Crew row 16 imported: Peter Mak, Chef
+2025-11-03 01:45:09,932 - INFO - Crew row 17 imported: Queenie Yuen, Concierge
+2025-11-03 01:45:09,934 - INFO - Crew row 18 imported: Raymond So, Security
+2025-11-03 01:45:09,937 - INFO - Crew row 19 imported: Samantha Ip, Manager
+2025-11-03 01:45:09,939 - INFO - Crew row 20 imported: Tony Chan, Receptionist
+2025-11-03 01:45:09,942 - INFO - Crew row 21 imported: Una Ko, Housekeeper
+2025-11-03 01:45:09,944 - INFO - Crew row 22 imported: Victor Pang, Chef
+2025-11-03 01:45:09,946 - INFO - Crew row 23 imported: Wendy Hui, Concierge
+2025-11-03 01:45:09,949 - INFO - Crew row 24 imported: Xavier Tong, Security
+2025-11-03 01:45:09,951 - INFO - Crew row 25 imported: Yvonne Luk, Manager
+2025-11-03 01:45:09,953 - INFO - Crew row 26 imported: Zachary Cheung, Receptionist
+2025-11-03 01:45:09,956 - INFO - Crew row 27 imported: Amy Kwan, Housekeeper
+2025-11-03 01:45:09,958 - INFO - Crew row 28 imported: Ben Lo, Chef
+2025-11-03 01:45:09,961 - INFO - Crew row 29 imported: Chloe Yeung, Concierge
+2025-11-03 01:45:09,963 - INFO - Crew row 30 imported: Derek Lai, Security
+2025-11-03 01:45:09,965 - INFO - 🔄 Reset: All Customer records deleted.
+2025-11-03 01:45:09,970 - INFO - Customer row 1 imported: Aaron Lee
+2025-11-03 01:45:09,975 - INFO - Customer row 2 imported: Bella Chan
+2025-11-03 01:45:09,979 - INFO - Customer row 3 imported: Calvin Ng
+2025-11-03 01:45:09,982 - INFO - Customer row 4 imported: Diana Ho
+2025-11-03 01:45:09,987 - INFO - Customer row 5 imported: Ethan Fong
+2025-11-03 01:45:09,991 - INFO - Customer row 6 imported: Fiona Yip
+2025-11-03 01:45:09,994 - INFO - Customer row 7 imported: Gavin Leung
+2025-11-03 01:45:09,996 - INFO - Customer row 8 imported: Hannah Cheng
+2025-11-03 01:45:09,999 - INFO - Customer row 9 imported: Ian Tam
+2025-11-03 01:45:10,001 - INFO - Customer row 10 imported: Jasmine Tse
+2025-11-03 01:45:10,003 - INFO - Customer row 11 imported: Ken Pang
+2025-11-03 01:45:10,006 - INFO - Customer row 12 imported: Lily Hui
+2025-11-03 01:45:10,009 - INFO - Customer row 13 imported: Marcus Tong
+2025-11-03 01:45:10,011 - INFO - Customer row 14 imported: Natalie Luk
+2025-11-03 01:45:10,013 - INFO - Customer row 15 imported: Oscar Cheung
+2025-11-03 01:45:10,016 - INFO - Customer row 16 imported: Phoebe Kwan
+2025-11-03 01:45:10,018 - INFO - Customer row 17 imported: Quentin Lo
+2025-11-03 01:45:10,021 - INFO - Customer row 18 imported: Rachel Yeung
+2025-11-03 01:45:10,023 - INFO - Customer row 19 imported: Samuel Lai
+2025-11-03 01:45:10,025 - INFO - Customer row 20 imported: Tiffany Wong
+2025-11-03 01:45:10,027 - INFO - Customer row 21 imported: Ursula Chan
+2025-11-03 01:45:10,029 - INFO - Customer row 22 imported: Victor Ng
+2025-11-03 01:45:10,031 - INFO - Customer row 23 imported: Wendy Ho
+2025-11-03 01:45:10,034 - INFO - Customer row 24 imported: Xander Fong
+2025-11-03 01:45:10,037 - INFO - Customer row 25 imported: Yvonne Yip
+2025-11-03 01:45:10,039 - INFO - Customer row 26 imported: Zachary Leung
+2025-11-03 01:45:10,042 - INFO - Customer row 27 imported: Amy Cheng
+2025-11-03 01:45:10,044 - INFO - Customer row 28 imported: Ben Tam
+2025-11-03 01:45:10,046 - INFO - Customer row 29 imported: Chloe Tse
+2025-11-03 01:45:10,048 - INFO - Customer row 30 imported: Derek Pang
+2025-11-03 01:45:10,050 - INFO - 🔄 Reset: All JobOpening records deleted.
+2025-11-03 01:45:10,053 - INFO - JobOpening row 1 imported: Front Desk Officer
+2025-11-03 01:45:10,057 - INFO - JobOpening row 2 imported: Housekeeping Attendant
+2025-11-03 01:45:10,061 - INFO - JobOpening row 3 imported: Chef de Partie
+2025-11-03 01:45:10,064 - INFO - JobOpening row 4 imported: Security Guard
+2025-11-03 01:45:10,065 - INFO - JobOpening row 5 imported: Concierge Assistant
+2025-11-03 01:45:10,068 - INFO - JobOpening row 6 imported: Pool Waiter
+2025-11-03 01:45:10,071 - INFO - JobOpening row 7 imported: Room Service Staff
+2025-11-03 01:45:10,073 - INFO - JobOpening row 8 imported: Pastry Chef
+2025-11-03 01:45:10,076 - INFO - JobOpening row 9 imported: Laundry Operator
+2025-11-03 01:45:10,079 - INFO - JobOpening row 10 imported: Bellhop
+2025-11-03 01:45:10,080 - INFO - JobOpening row 11 imported: Barista
+2025-11-03 01:45:10,082 - INFO - JobOpening row 12 imported: Sous Chef
+2025-11-03 01:45:10,083 - INFO - JobOpening row 13 imported: Reception Supervisor
+2025-11-03 01:45:10,085 - INFO - JobOpening row 14 imported: Night Auditor
+2025-11-03 01:45:10,086 - INFO - JobOpening row 15 imported: Spa Therapist
+2025-11-03 01:45:10,088 - INFO - JobOpening row 16 imported: Maintenance Technician
+2025-11-03 01:45:10,090 - INFO - JobOpening row 17 imported: Event Coordinator
+2025-11-03 01:45:10,091 - INFO - JobOpening row 18 imported: Sales Executive
+2025-11-03 01:45:10,093 - INFO - JobOpening row 19 imported: IT Support Technician
+2025-11-03 01:45:10,094 - INFO - JobOpening row 20 imported: Marketing Assistant
+2025-11-03 01:45:10,096 - INFO - JobOpening row 21 imported: HR Officer
+2025-11-03 01:45:10,097 - INFO - JobOpening row 22 imported: Training Manager
+2025-11-03 01:45:10,099 - INFO - JobOpening row 23 imported: Executive Housekeeper
+2025-11-03 01:45:10,101 - INFO - JobOpening row 24 imported: Banquet Server
+2025-11-03 01:45:10,102 - INFO - JobOpening row 25 imported: Bartender
+2025-11-03 01:45:10,104 - INFO - JobOpening row 26 imported: Kitchen Helper
+2025-11-03 01:45:10,105 - INFO - JobOpening row 27 imported: Public Area Cleaner
+2025-11-03 01:45:10,107 - INFO - JobOpening row 28 imported: Guest Relations Officer
+2025-11-03 01:45:10,109 - INFO - JobOpening row 29 imported: Valet Driver
+2025-11-03 01:45:10,110 - INFO - JobOpening row 30 imported: Reservation Agent
+2025-11-03 01:45:10,110 - INFO - ✅ Imported 30 Crew records.
+2025-11-03 01:45:10,111 - INFO - ✅ Imported 30 Customer records.
+2025-11-03 01:45:10,111 - INFO - ✅ Imported 30 JobOpening records.
